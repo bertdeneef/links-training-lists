@@ -1,0 +1,19 @@
+body{color: red; font-style: italic;}
+
+.black-border {
+    border: 5px solid  black;
+}
+#green-background {
+    background-color: green;
+}
+
+.orange-border {
+    border: 5px solid  orange;
+}
+.yellow-background {
+    background-color: yellow;
+}
+
+.text-decoration {
+    text-decoration: underline;     
+ }     

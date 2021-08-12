@@ -1,0 +1,57 @@
+*{
+    margin: 25;
+    padding: 25;
+}
+
+
+body{color: rgb(18, 14, 14); font-style: italic; background-color: lightgreen;}
+
+.black-border {
+    border: 5px solid  black;
+}
+#green-background {
+    background-color: green;
+}
+
+.orange-border {
+    border: 5px solid  orange;
+}
+.yellow-background {
+    background-color: yellow;
+}
+
+.text-decoration {
+    text-decoration: underline;     
+ }     
+
+ .blue-border {
+ border: 8px solid blue
+ }
+ .violet-border {
+    border: 10px solid rgb(255, 0, 170)
+    }
+    .icegreen-border {
+        border: 6px solid rgb(37, 112, 122)
+        }
+        footer{
+            padding: 35px; /* apply to all four sides */
+        }
+        h1 {
+            margin: 50px; /* apply to all four sides */
+        }
+        
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 15px;
+        }
+        
+        
+        li a{
+            display: block;
+            width:  200px;
+            background-color: rgb(63, 230, 63);
+
+        }
+
+    
